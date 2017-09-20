@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    
 }
 /*Make everything use border-box*/
 *, *:before, *:after {
@@ -9,10 +8,15 @@ body {
     box-sizing: border-box;
 }
 header, section, nav, main, article {
-    display: block;
     width: 100vw;
     padding: 15px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+page {
+    display: flex;
+    flex-wrap: wrap;
 }
 header {
     background-color: #f59aba;
@@ -21,7 +25,8 @@ section {
     background-color: #c5c1d6;
 }
 main {
-    background-color: #fff9f1
+    background-color: #fff9f1;
+    height: 200px;
 }
 nav {
     background-color: #6f6471;
@@ -37,4 +42,30 @@ nav {
 }
 .bg-purple {
     background-color: #e5bef4
+}
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  article, section {
+    width: 50%;
+  }
+}
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  page {
+    width: 960px;
+    margin: 0 auto;
+  }
+  article {
+    width: 33.3%;
+  }
+  header {
+    height: 400px;
+  }
+  section {
+  height: 200px;
+  order: 1;
+  }
+  main {
+  order: 2;
+  }
 }
