@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <ellipse cx="-26.808" cy="125.33" rx="5.8799" ry="9.5139" fill="#fcffff" stroke-width="0"/>
+ <g transform="translate(-2.1382 -8.8199)">
+  <circle cx="111.82" cy="137.25" r="64.679" fill="#fc9797"/>
+  <g transform="translate(.45384 -60.91)">
+   <circle cx="144.37" cy="168.09" r="30.068" fill="#fc9797"/>
+   <g transform="translate(.53454 -.26727)">
+    <circle cx="144.37" cy="168.36" r="24.455" fill="#fcffff"/>
+   </g>
+  </g>
+  <g transform="translate(-81.331 -29.639)">
+   <circle cx="144.37" cy="168.09" r="30.068" fill="#fc9797"/>
+   <g transform="translate(.53454 -.26727)">
+    <circle cx="144.37" cy="168.36" r="24.455" fill="#fcffff"/>
+   </g>
+  </g>
+  <g>
+   <ellipse cx="65.93" cy="145.35" rx="8.7828" ry="8.912" stroke="#e20f3a" stroke-width="5.6716"/>
+   <ellipse cx="146.3" cy="100.79" rx="8.8395" ry="8.9695" stroke="#e20f3a" stroke-width="5.7081"/>
+   <ellipse cx="67.594" cy="143.38" rx="1.6588" ry="1.5702" fill="#fff" stroke-width="0"/>
+   <ellipse cx="147.91" cy="98.024" rx="1.6588" ry="1.5702" fill="#fff" stroke-width="0"/>
+  </g>
+  <g stroke-width="0">
+   <path d="m95.562 166.2s15.057 6.2208 30.837-4.0397c7.9586-5.1751 11.649 1.2999 20.245-16.499 1.9698-4.079-0.77957 22.336-3.7503 27.281-8.332 13.871-42.999 14.602-47.331-6.7428z"/>
+   <path d="m58.151 102.06c3.8647 5.9854-8.5104 1.9965-17.501 7.8013-8.9904 5.805-11.192 19.206-15.056 13.22-3.8646-5.9853 0.29059-15.543 9.281-21.348 8.9904-5.805 19.412-5.6587 23.276 0.3266z"/>
+   <path d="m177.22 83.509c-2.6072 6.6304-6.5859-5.748-16.545-9.6641-9.9594-3.9161-22.128 2.113-19.521-4.5174 2.6072-6.6304 12.794-8.8308 22.754-4.9147 9.9594 3.9161 15.92 12.466 13.312 19.096z"/>
+  </g>
+  <path d="m110.91 167.83c2.3279-0.22978 6.4625-1.2886 7.968-1.8944-0.23093 3.0114-0.1735 5.8992-0.7964 9.0786-3.7692-2.9856-4.781-4.7894-7.1716-7.1842z" fill="#fff"/>
+ </g>
+</svg>
