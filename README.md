@@ -6,6 +6,8 @@ henk. koht git on https://github.com/lusikka (harkkatyö löytyy täältä)
 
 linkki harkkatyöhön: https://lusikka.github.io/harkkatyo/
 
+linkki harkkatyön dokumentaatioon: https://lusikka.github.io/harkkatyo/document.html
+
 ui mockup
 https://www.fluidui.com/editor/live/preview/cF91N3ZaVmhpN096T254MW9SblFpNldTNWIwd2hXQjJieA==
 
